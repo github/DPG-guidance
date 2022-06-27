@@ -7,3 +7,5 @@ This repo is to house all guidance on how owners and maintainers of [digital pub
 - Badges
 - Standard repo topics
 - Standard Issue labels
+
+And the goal is to eventually make this repo public so that DPG owners and maintainers can access all guidance.
