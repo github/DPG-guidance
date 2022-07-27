@@ -1,5 +1,5 @@
 <p align="center">
-  ![DPG Badge](https://user-images.githubusercontent.com/667909/181150972-e59a77ab-b657-4893-aef9-d3df1384a506.png)
+  <img src="https://user-images.githubusercontent.com/667909/181150972-e59a77ab-b657-4893-aef9-d3df1384a506.png" alt="DPG Approved" height="40">
 </p>
 
 ---
