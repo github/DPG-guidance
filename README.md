@@ -25,9 +25,10 @@
 
 ---
 
-## Get Involved
+## Use or Contribute to this Project
 
-### [test](LICENSE)
+### [NGO Adoption Info](ngo.md)
+### [Contributor Info](contribute.md)
 
 
 ---
