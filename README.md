@@ -4,11 +4,14 @@
 
 ---
 
-### Open Foris Collect is a United Nation's recognized [Digital Public Good](https://digitalpublicgoods.net/registry/)
+### Example Project is a United Nation's recognized [Digital Public Good](https://digitalpublicgoods.net/registry/)
 
-#### This project is supporting [SDG 3](https://sdgs.un.org/goals/goal3)
+#### This project supports the following sustainable development goals:
 
-#### [NGO Use/Adoption Info](https://gist.github.com/seanmarcia/aee17ce4470b0e7f719b602e9497b364)
+* [SDG 4 - Quality Education](https://sdgs.un.org/goals/goal4)
+* [SDG 8 - Decent Work and Economic Growth](https://sdgs.un.org/goals/goal4)
+* [SDG 9 - Industry, Innovation, and Infrastructure](https://sdgs.un.org/goals/goal9)
+
 
 ---
 
@@ -19,6 +22,13 @@
 [![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-5189-green)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5189-yellowgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Issues%20Resolved-5104-brightgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20PRs%20Resolved-3201-brightgreen)](https://github.com/openforis/collect) 
 
 -- Currently hardcoded will dynamically generate --
+
+---
+
+## Get Involved
+
+### [test](LICENSE)
+
 
 ---
 
