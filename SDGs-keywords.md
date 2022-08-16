@@ -1,9 +1,9 @@
 Goal Number | Goal Description | Keywords
 ----------- | ---------------- | --------
-1 | End poverty in all its forms everywhere | poverty; socioeconomic; quintile; cash transfers
-2 | End hunger, achieve food security and improved nutrition and promote sustainable agriculture | food aid; food assistance; nutrition; acute malnutrition; land; crops; agriculture
+1 | End poverty in all its forms everywhere | poverty; socioeconomic; quintile; conditional cash transfers, unconditional cash transfers
+2 | End hunger, achieve food security and improved nutrition and promote sustainable agriculture | food aid; food assistance; nutrition; acute malnutrition; SAM, MAM; land; crops; agriculture
 3 | Ensure healthy lives and promote well-being for all at all ages | public health; global health; non-communicable, communicable; disease; mortality, morbidity; maternal mortality; infant care; maternal care, postpartum care; road deaths, traffic deaths; sexual health, reproductive health
-4 | Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all | insert
+4 | Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all | primary education, secondary education, tertiary education, higher education, university; equitable; technical education, vocational education; literarcy, numeracy; scientific education, engineering education; teachers, teacher cooperation; students; remote learning; 
 5 | Achieve gender equality and empower all women and girls | insert
 6 | Ensure availability and sustainable management of water and sanitation for all | insert
 7 | Ensure access to affordable, reliable, sustainable and modern energy for all | insert
