@@ -1,11 +1,3 @@
-### GitHub Stats at a Glance
-
-[![Languages](https://img.shields.io/badge/Application%20Language-Java%2C%20Typescript-orange)](https://github.com/openforis/collect) [![Last Update](https://img.shields.io/badge/Last%20Update-17%20Days%20Ago-green)](https://github.com/openforis/collect) [![Contributors](https://img.shields.io/badge/Contributors-89-brightgreen)](https://github.com/openforis/collect) [![Project Age](https://img.shields.io/badge/Project%20Age-6%20Years%2C%202%20Months-brightgreen)](https://github.com/openforis/collect) 
-
-[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-5189-green)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5189-yellowgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Issues%20Resolved-5104-brightgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20PRs%20Resolved-3201-brightgreen)](https://github.com/openforis/collect) 
-
-
----
 
 ### Type of Application
 
