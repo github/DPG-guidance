@@ -19,11 +19,28 @@
 
 ## GitHub Stats at a Glance 
 
-[![Languages](https://img.shields.io/badge/Application%20Language-Java%2C%20Typescript-orange)](https://github.com/openforis/collect) [![Last Update](https://img.shields.io/badge/Last%20Update-17%20Days%20Ago-green)](https://github.com/openforis/collect) [![Contributors](https://img.shields.io/badge/Contributors-89-brightgreen)](https://github.com/openforis/collect) [![Project Age](https://img.shields.io/badge/Project%20Age-6%20Years%2C%202%20Months-brightgreen)](https://github.com/openforis/collect) 
 
-[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-5189-green)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5189-yellowgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20Issues%20Resolved-5104-brightgreen)](https://github.com/openforis/collect) [![GitHub Forks](https://img.shields.io/badge/GitHub%20PRs%20Resolved-3201-brightgreen)](https://github.com/openforis/collect) 
 
--- Currently hardcoded will dynamically generate --
+<p align="center">
+<h2 align="center">GitHub Stats at a Glance</h2>
+<a href="https://github.com/rubyforgood/human-essentials/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/issues" alt="Contributors"> <img src="https://img.shields.io/github/issues-closed/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/search" alt="Languages"><img src="https://img.shields.io/github/languages/count/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/search" alt="Languages"><img src="https://img.shields.io/github/languages/top/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/ alt="Size"><img src="https://img.shields.io/github/repo-size/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/issues-pr-closed-raw/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/ alt="LICENSE"><img src="https://badgen.net/github/license/rubyforgood/human-essentials?icon=github&color=green" /></a>
+<a href="https://github.com/badges/shields/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/commits/main" alt="Last Commit"><img src="https://img.shields.io/github/last-commit/rubyforgood/human-essentials?logo=github" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/commits/main" alt="Total Commits"><img src="https://badgen.net/github/commits/rubyforgood/human-essentials/main?icon=github&color=green" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/rubyforgood/human-essentials/ alt="Stars"><img src="https://img.shields.io/github/stars/rubyforgood/human-essentials?style=social" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/ alt="Forks"><img src="https://img.shields.io/github/forks/rubyforgood/human-essentials?style=social" /></a>
+<a href="https://github.com/rubyforgood/human-essentials/ alt="Watchers"><img src="https://img.shields.io/github/watchers/rubyforgood/human-essentials?style=social" /></a>
+</p>
+
+*Generated Stats from Readme Tool Using Human Essentials project as an example*
 
 ---
 
