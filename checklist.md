@@ -1,6 +1,6 @@
-### Repo Setup Guidance
+### DPG Repo Guidance Checklist
 
-A social sector open source project is slightly different than a typical open source project. To help you prepare your GitHub repositories for contributors we've put together a checklist of items to think about when doing so. Under the checklist we've also included suggestions and ideas for each of the items. 
+A social sector open source project is slightly different than a typical open source project. To help you prepare your GitHub repositories for contributors we've put together a checklist of items to think about when doing so. Below the checklist we've also included suggestions and ideas for each of the items. 
 
 Note that much of this checklist is covered in [this video](https://www.youtube.com/watch?v=SIhiXdy_6Zo&t=4s) if you'd prefer to watch than read.
 
@@ -22,9 +22,9 @@ Not required but nice to haves:
 
 #### Readme
 
-Your project's README and description are a great place to hook people into the mission of your social sector project. While it is a good idea to talk about the technologies involved we suggest you focusing on the mission, how your project is impacting the world, and telling a good story about who it helps.
+Your project's README and description are a great place to hook people into the mission of your social sector project. While it is a good idea to talk about the technologies involved we suggest that this is your opportunity to focus on your project's mission, how your project is impacting the world, as well as telling a good story about who it helps.
 
-If your project spans multiple repositories we recommend setting up an organizational readme as well as pinning repositories you'd like to highlight. You can read more information about this [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+If your project spans multiple repositories we recommend setting up an organizational readme as well as pinning repositories you'd like to highlight. You can read more information about organizational READMEs and pinning projects [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
 #### Code of Conduct
 
@@ -32,13 +32,13 @@ This is needed to create a safe space and welcoming environment for your project
 
 #### Open Source License
 
-The open source license let people know how the software can be used, modified, and shared with others. The Open Source Initiative has an [excellent write up](https://opensource.org/licenses) of the various licenses as well as answers to many frequently asked questions about them.
+An open source license lets people know how the software can be used, modified, and shared with others. The Open Source Initiative has an [excellent write up](https://opensource.org/licenses) of the various licenses as well as answers to many frequently asked questions about them.
 
-##### Note: Some people will be prohibited from contributing to open source projects that lack a Code of Conduct or an Open Source License.
+##### Note: Some people may be prohibited from contributing to open source projects by their employers if they lack a Code of Conduct or an Open Source License.
 
 #### Contributing File
 
-A contributing file should explain the process of how to contribute to your project as well as any technical requirements that may block them contributing. Your project should answer:
+A contributing file should explain the process of how to contribute to your project as well as any technical requirements that may block someone from contributing. Your contributing file should answer:
 * How does someone claim and have work assigned to them?
 * What the process for submitting code? Do they fork and submit that fork? Do they request to be a member and submit at PR? Something else?
 * How to run the project locally.
@@ -47,20 +47,20 @@ A contributing file should explain the process of how to contribute to your proj
 
 #### Issue Templates
 
-These simply the creation of issues for your contributors. Issues are also a fantastic time to connect your contributors to the mission of your organization by letting them know how the issue they will be working on is going to be making someone's life better. This is a unique opportunity for social sector organizations. We also recommend that your issues let people know the following:
-* A summary of what the problem is and what needs to be solved. Ideally including information on how it will help the end users.
+These simply the creation of issues for your contributors. Issues are also a fantastic time to connect your contributors to the mission of your organization by letting them know how the issue they will be working on is going to be making someone's life better. This is a unique opportunity for social sector organizations that other open source projects don't have to connect contributors to your mission. We recommend that your issues let people know the following:
+* A summary of what the problem is and what needs to be solved. Ideally including information on how it will help end users.
 * Any specific technical or process requirements that will aid in solving the issue.
 * Clear and unambiguous acceptance criteria for the issue so the contributor will know what is needed to solve the problem.
 
 #### Pull Request Templates
 
-These should outline, and provide sections for contributors to fill in the areas that you are looking for in a pull request. For example, if you require screenshots with your PR, include a screen shot section. 
+Your projects pull request template should outline and provide sections for contributors to fill in the when submitting their pull request. For example, if you require screenshots with your PR, include a screen shot section. 
 
 
 #### GitHub Actions
 
 There are a lot of great actions for making the management of your project easier. Some that we recommend are:
-- [Close Stale Issues Action](https://github.com/marketplace/actions/close-stale-issues) - There is an emotional burden to pester people to ask if they are still working on issues and what the status is. This allows you to offload that burden to a GitHub Action.
+- [Close Stale Issues Action](https://github.com/marketplace/actions/close-stale-issues) - There is an emotional burden to asking people if they are still working on issues and what the status is. This allows you to offload that burden to a GitHub Action.
 - [Issue Notifier](https://github.com/marketplace/actions/issues-notifier) - This action will notify maintainers when someone opens a critical issue that has a particular label.
 - [Many More](https://github.com/marketplace?type=actions&query=issues+) - There are additional actions to manage pull requests, translate the language in issues, and much more.
 
@@ -80,8 +80,8 @@ You can see the results of a project who has used the tool [here](https://github
 
 #### Skills Based Volunteering Information
 
-Consider adding instructions for companies that are interested in doing skills based volunteering. Many large companies like GitHub, Intel, Google, and others offer their employees time to volunteer. This document tells them how a larger team could contribute to your project. See an example [here](https://github.com/rubyforgood/human-essentials/blob/main/sbv.md).
+Consider adding instructions for companies that are interested in doing skills based volunteering. Many large companies like GitHub, Intel, Google, and others offer their employees time to volunteer. This document provides information for how a larger team could engage with your project. See an example [here](https://github.com/rubyforgood/human-essentials/blob/main/sbv.md).
 
 #### NGO Adoption Information
 
-To make it easy for NGOs to start using your software, or to tell them how they can customized to solve their own problems, you should consider creating an NGO document. There is an example [here](https://github.com/rubyforgood/human-essentials/blob/main/ngo.md) how one DPG is doing it. 
+To make it easy for NGOs to adopt and being using your software, or to tell them how they can customized to solve their own problems, you should consider creating an NGO document. This is an example [here](https://github.com/rubyforgood/human-essentials/blob/main/ngo.md) of how one DPG is doing it. 
