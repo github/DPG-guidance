@@ -1,87 +1,123 @@
-### DPG Repo Guidance Checklist
+## DPG Repo Guidance Checklist
 
-A social sector open source project is slightly different than a typical open source project. To help you prepare your GitHub repositories for contributors we've put together a checklist of items to think about when doing so. Below the checklist we've also included suggestions and ideas for each of the items. 
+A social sector open-source project is slightly different than a typical open-source project. We've put together this checklist to help you prepare your GitHub repositories for contributors. Below the checklist, you'll find suggestions and ideas for each of the items.
 
-Note that much of this checklist is covered in [this video](https://www.youtube.com/watch?v=SIhiXdy_6Zo&t=4s) if you'd prefer to watch than read.
+Note that much of this checklist is covered in [this video](https://www.youtube.com/watch?v=SIhiXdy_6Zo&t=4s) if you'd prefer to watch instead of read.
 
-- [ ] Repository has a README
-- [ ] Repository has a Code of Conduct
-- [ ] Repository has an Open Source License
-- [ ] Repository has a Contributing file
-- [ ] Repository has Issue templates
-- [ ] Repository has Pull Request Templates
+* [ ] The repository has a README that explains the project's mission, impact, and story
+* [ ] The repository has a Code of Conduct to create a safe and welcoming environment
+* [ ] The repository has an Open Source License to explain how the software can be used, modified, and shared
+* [ ] The repository has a Contributing file that explains how to contribute to the project, including technical requirements and process
+* [ ] The repository has Issue templates to help contributors create new issues
+* [ ] The repository has Pull Request templates to guide contributors when submitting code
 
 Not required but nice to haves:
-- [ ] Repository has set up GitHub actions
-- [ ] Repository has set up GitHub Sponsors
-- [ ] Repository is using project boards
-- [ ] Repository has used the DPG generator tool
-- [ ] Repository has skills based volunteering information
-- [ ] Repository has NGO adoption information
+* [ ] The repository has set up GitHub actions to automate tasks and improve project management
+* [ ] The repository has set up GitHub Sponsors to support open source development
+* [ ] The repository is using project boards to organize and prioritize work
+* [ ] The repository has used the DPG generator tool to create a consistent structure and setup
+* [ ] The repository has information about skills-based volunteering opportunities
+* [ ] The repository has information about NGO adoption of the project
 
 
 #### Readme
 
-Your project's README and description are a great place to hook people into the mission of your social sector project. While it is a good idea to talk about the technologies involved we suggest that this is your opportunity to focus on your project's mission, how your project is impacting the world, as well as telling a good story about who it helps.
-
-If your project spans multiple repositories we recommend setting up an organizational readme as well as pinning repositories you'd like to highlight. You can read more information about organizational READMEs and pinning projects [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+Your project's README and description are a great opportunity to showcase the mission of your social sector project. In addition to discussing the technologies involved, we suggest highlighting your project's impact on the world and sharing a compelling story about the people your project helps. If your project spans multiple repositories, consider setting up an organizational README and pinning repositories to highlight their importance. You can learn more about organizational READMEs and pinning projects [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
 #### Code of Conduct
 
-This is needed to create a safe space and welcoming environment for your project. If you are having a difficult time choosing a code of conduct we recommend the [Contributor Covenant](https://www.contributor-covenant.org).
+A code of conduct is important for an open source project because it sets clear expectations for behavior and helps create a safe and welcoming environment for contributors. It can help establish ground rules for how people should interact with each other, both online and in person at events. This can be especially important for open source projects that involve a diverse community of contributors with different backgrounds, experiences, and perspectives.
+
+Having a code of conduct can also help to prevent harassment and other harmful behavior, which can discourage people from participating in the project and hinder its growth and success. It can also help protect the reputation of the project and its contributors by showing that they are committed to creating a positive and inclusive community.
+
+If you are having a difficult time choosing a code of conduct we recommend the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 #### Open Source License
 
-An open source license lets people know how the software can be used, modified, and shared with others. The Open Source Initiative has an [excellent write up](https://opensource.org/licenses) of the various licenses as well as answers to many frequently asked questions about them.
+An open source license is important because it allows people to access, modify, and distribute the source code of a software project. This helps to promote collaboration and sharing within the open source community, and allows anyone to contribute to or use the project, subject to certain conditions.
 
-##### Note: Some people may be prohibited from contributing to open source projects by their employers if they lack a Code of Conduct or an Open Source License.
+In short, an open source license helps to ensure that the project remains freely accessible and usable by anyone who is interested in it. This can help the project grow and thrive, as it enables more people to get involved and contribute their ideas and expertise.
+
+Overall, an open source license is a key part of the open source movement, and helps to support the principles of collaboration and openness that are central to the open source community.
+
+The Open Source Initiative has an [excellent write-up](https://opensource.org/licenses) of the various licenses as well as answers to many frequently asked questions about them.
+
+_Note: Some people may be prohibited from contributing to open-source projects by their employers if the project lacks a Code of Conduct or an Open Source License._
 
 #### Contributing File
 
-A contributing file should explain the process of how to contribute to your project as well as any technical requirements that may block someone from contributing. Your contributing file should answer:
-* How does someone claim and have work assigned to them?
-* What the process for submitting code? Do they fork and submit that fork? Do they request to be a member and submit at PR? Something else?
-* How to run the project locally.
-* External services or apis the contributor needs to access/sign up for in order to contribute.
-* System requirements -- are there any gotchas to contributing on a Mac? Windows? Linux?
+A contributing document for a software project should outline the process for how to contribute to the project, as well as any technical requirements or guidelines that contributors need to follow. Some key things to include in a contributing document are:
+
+An overview of the contribution process, including how to claim and have work assigned, and the steps for submitting code.
+Technical requirements and instructions for setting up the project locally, including any external services or APIs that need to be accessed or signed up for.
+System requirements, such as any specific dependencies or setup instructions for different operating systems (e.g. Mac, Windows, Linux).
+Any coding standards, guidelines, or best practices that contributors should follow when writing code.
+A link to the project's code of conduct, which sets expectations for behavior and helps to create a safe and welcoming environment.
+A link to the project's open source license, which explains how the code can be used, modified, and distributed.
+Overall, a contributing document should provide clear and concise instructions for how to contribute to the project, and should help ensure that contributions are consistent with the project's goals and standards.
 
 #### Issue Templates
 
-These simply the creation of issues for your contributors. Issues are also a fantastic time to connect your contributors to the mission of your organization by letting them know how the issue they will be working on is going to be making someone's life better. This is a unique opportunity for social sector organizations that other open source projects don't have to connect contributors to your mission. We recommend that your issues let people know the following:
-* A summary of what the problem is and what needs to be solved. Ideally including information on how it will help end users.
-* Any specific technical or process requirements that will aid in solving the issue.
-* Clear and unambiguous acceptance criteria for the issue so the contributor will know what is needed to solve the problem.
+GitHub issue templates are used to simplify the process of creating new issues for a project. They provide a pre-defined structure and set of fields for contributors to fill in, which can help ensure that issues are formatted consistently and include all the necessary information.
+
+This can be especially useful for larger or more complex projects, where it may be difficult for contributors to know exactly what information to include in an issue. By providing a template, project maintainers can help ensure that issues are well-structured and easy to understand, which can make it easier for others to contribute and help resolve the issue.
+
+Overall, GitHub issue templates can help to streamline the process of creating and managing issues, and can make it easier for contributors to get involved and contribute to the project.
 
 #### Pull Request Templates
 
-Your projects pull request template should outline and provide sections for contributors to fill in the when submitting their pull request. For example, if you require screenshots with your PR, include a screen shot section. 
+GitHub pull request templates are used to simplify the process of creating and reviewing pull requests for a project. They provide a pre-defined structure and set of fields for contributors to fill in when submitting a pull request, which can help ensure that pull requests are formatted consistently and include all the necessary information.
 
+This can be especially useful for larger or more complex projects, where it may be difficult for contributors to know exactly what information to include in a pull request. By providing a template, project maintainers can help ensure that pull requests are well-structured and easy to review, which can make it easier for others to contribute and help improve the code.
+
+Overall, GitHub pull request templates can help to streamline the process of creating and reviewing pull requests, and can make it easier for contributors to get involved and contribute to the project.
 
 #### GitHub Actions
 
-There are a lot of great actions for making the management of your project easier. Some that we recommend are:
-- [Close Stale Issues Action](https://github.com/marketplace/actions/close-stale-issues) - There is an emotional burden to asking people if they are still working on issues and what the status is. This allows you to offload that burden to a GitHub Action.
-- [Issue Notifier](https://github.com/marketplace/actions/issues-notifier) - This action will notify maintainers when someone opens a critical issue that has a particular label.
-- [Many More](https://github.com/marketplace?type=actions&query=issues+) - There are additional actions to manage pull requests, translate the language in issues, and much more.
+GitHub Actions are a powerful tool that can be used to automate a wide range of tasks and processes within a GitHub repository. Some common uses for GitHub Actions include:
+
+* Building, testing, and deploying code
+* Running automated checks and tests
+* Formatting and linting code
+* Releasing and publishing new versions of the project
+* Closing stale issues and pull requests
+* Updating dependencies and managing dependencies
+
+Overall, GitHub Actions can be used to automate a wide variety of tasks within a GitHub repository, and can help to improve the efficiency and reliability of the project. By using GitHub Actions, project maintainers can save time and effort, and can focus on more important tasks, such as developing new features and fixing bugs.
+
+Some that we recommend getting start with are:
+* [Close Stale Issues Action](https://github.com/marketplace/actions/close-stale-issues) - There is an emotional burden to asking people if they are still working on issues and what the status is. This allows you to offload that burden to a GitHub Action.
+* [Issue Notifier](https://github.com/marketplace/actions/issues-notifier) - This action will notify maintainers when someone opens a critical issue that has a particular label.
+* [Many More](https://github.com/marketplace?type=actions&query=issues+) - There are additional actions to manage pull requests, translate the language in issues, and much more.
+
+If you'd like to develop your own actions the [GitHub Skills](https://skills.github.com/#automate-workflows-with-github-actions) site has several tutorials to get you started.
 
 #### GitHub Sponsors
 
-If sponsors is available in your region/area you should consider signing up. You can find out more information [here](https://docs.github.com/en/sponsors).
+GitHub Sponsors is a program that enables people to support open source development by making financial contributions to the developers and maintainers of open source projects. Through GitHub Sponsors, users can choose to sponsor specific developers or organizations, and can make regular or one-time contributions to support their work.
+
+GitHub Sponsors is an important program that enables people to support open source development, and can help to ensure that open source projects continue to thrive and evolve. You can find out if GitHub Sponsors are available in your region/area and learn how to sign up [here](https://docs.github.com/en/sponsors).
 
 #### Project Boards
 
-Project boards are a great way for contributors to see how issues link together, the larger chunks of work, and where a project is going. Consider adding a project board to your project, check out a quickstart guide [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects).
+GitHub project boards are a tool that can be used to organize and manage the workflows and tasks within a GitHub repository. They provide a visual representation of the project, and allow users to create and assign issues and pull requests to specific columns, which can represent different stages of the development process (e.g. "To Do", "In Progress", "Review", "Done"). They also provide visibility into the project and its progress, and can make it easier for project maintainers and contributors to track and manage the work that needs to be done.
+
+In addition, project boards can be used to organize and prioritize tasks, and can help to ensure that important issues and pull requests are addressed in a timely manner. They can also be used to collaborate with other contributors and stakeholders, and to discuss and review the work that is being done.
+
+By using project boards, project maintainers and contributors can work more efficiently and effectively, and can help to ensure that the project remains on track and meets its goals.
+
+Consider adding a project board to your project, check out a quickstart guide [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects).
 
 #### Use the DPG Generator Tool
 
-This tool provides at a glance information for your project. It is useful for contributors as it gives them a sense of how active and what the community around your project is. You can use the tool [here](https://socialimpact.github.com/tech-for-social-good/hacktoberfest2022#generator).
+This tool provides "at a glance" information for contributors and potential contributors of your project. It gives contributors a sense of how active and what the community around your project is. You can use the tool [here](https://socialimpact.github.com/tech-for-social-good/hacktoberfest2022#generator) to generate this information for your project.
 
 You can see the results of a project who has used the tool [here](https://github.com/rubyforgood/human-essentials#-the-digital-public-goods-alliance-recognizes-human-essentials-as-a-digital-public-good-dpg).
 
-#### Skills Based Volunteering Information
+#### Skills-Based Volunteering Information
 
-Consider adding instructions for companies that are interested in doing skills based volunteering. Many large companies like GitHub, Intel, Google, and others offer their employees time to volunteer. This document provides information for how a larger team could engage with your project. See an example [here](https://github.com/rubyforgood/human-essentials/blob/main/sbv.md).
+Consider adding instructions for companies that are interested in having their devs participate in skills-based volunteering. Many large companies like GitHub, Intel, Google, and others offer their employees time to volunteer. A Skills Based Volunteering document provides information on how a larger team could engage with your project. See an example [here](https://github.com/rubyforgood/human-essentials/blob/main/sbv.md).
 
 #### NGO Adoption Information
 
-To make it easy for NGOs to adopt and being using your software, or to tell them how they can customized to solve their own problems, you should consider creating an NGO document. This is an example [here](https://github.com/rubyforgood/human-essentials/blob/main/ngo.md) of how one DPG is doing it. 
+To make it easy for NGOs to adopt and begin using your software, or to tell them how the project can be customized to solve their problems, you should consider creating an NGO document. Here is an [example](https://github.com/rubyforgood/human-essentials/blob/main/ngo.md) of how one DPG is doing it.
